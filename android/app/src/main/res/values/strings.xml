@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">starvault</string>
+    <string name="title_activity_main">starvault</string>
+    <string name="package_name">ionic.starvault</string>
+    <string name="custom_url_scheme">ionic.starvault</string>
+</resources>
